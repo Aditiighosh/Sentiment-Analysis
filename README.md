@@ -1,4 +1,4 @@
-# Amazon-Alexa-Reviews
+# Sentiment Analysis
 
 
 ## HOW TO RUN
