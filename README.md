@@ -33,14 +33,14 @@ localhost:5000
 
 Algorithm
 
-The application uses the XGBoost algorithm for analyzing reviews. This algorithm is known for its performance and accuracy in classification tasks.
+    The application uses the XGBoost algorithm for analyzing reviews. This algorithm is known for its performance and accuracy in classification tasks.
 
-Notes
+Notes  
 
-   1. The backend of this application is implemented using Flask.
-   2. Due to limited data for negative reviews, the model might sometimes give incorrect predictions. 3.3. 3. Future improvements could include gathering more data to enhance the model's accuracy.
-   4. Contributing
-   5.Contributions are welcome! Please fork the repository and create a pull request with your changes.
+     1. The backend of this application is implemented using Flask.
+     2. Due to limited data for negative reviews, the model might sometimes give incorrect predictions. 3.3. 3. Future improvements could include gathering more data to enhance the model's accuracy.
+     4. Contributing
+     5.Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 Features
 
@@ -66,4 +66,4 @@ Fork the Project
 
 License
 
-Distributed under the MIT License. See LICENSE for more information.
+    Distributed under the MIT License. See LICENSE for more information.
